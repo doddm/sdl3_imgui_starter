@@ -2,7 +2,7 @@
 
 A minimal C++ starter project for SDL3 and Dear ImGui, managed with CMake.
 
-This project demonstrates how to set up a basic SDL3 window and render an ImGui debug window, using modern CMake to automatically fetch and build both SDL3 and ImGui as dependencies.
+This project demonstrates how to set up a basic SDL3 window and render an ImGui debug window. CMake automatically fetches SDL3 and ImGui as dependencies and builds SDL3.
 
 ## Features
 
